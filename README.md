@@ -29,6 +29,7 @@ This application provides a way to record this information and to access these i
 ![communicationdiagram](https://github.com/ganesha360/LAB-4-Hospital-Management/assets/120884552/fe992a98-5de9-4c4b-92a3-89b0280f8146)
 
 # STATECHART DIAGRAM:
+![staecahrtdiagram](https://github.com/ganesha360/LAB-4-Hospital-Management/assets/120884552/3eebc552-a133-4f8a-94b0-902e9a48fb0d)
 
 
 
