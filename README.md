@@ -10,7 +10,6 @@ This application provides a way to record this information and to access these i
 # Developed By: Ganesh R
 # Reg No: 212222240029
 ```
-## UML DIAGRAM:
 ## USE CASE DIAGRAM:
 ![usecasediagram](https://github.com/ganesha360/LAB-4-Hospital-Management/assets/120884552/ff9a64fc-9538-48b9-8443-96bd439dfa06)
 
